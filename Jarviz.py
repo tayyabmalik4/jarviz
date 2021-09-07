@@ -109,5 +109,4 @@ if __name__== '__main__':
                 speak("Soory my friend tayyab bhai. I am not able to send this email")
         elif 'exit' in query:
             exit()
-    # speak("Tayyab Your a  very good boy and your parents have many proud of you because your a briliat man.")
  
